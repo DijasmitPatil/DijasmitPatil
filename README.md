@@ -18,7 +18,10 @@ Hello! 👋 My name is Dijasmit Patil<br><br>
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DijasmitPatil/DijasmitPatil/output/snake.svg" alt="Snake animation" />
 ---
 [![](https://visitcount.itsvg.in/api?id=Dijasmit Patil&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
