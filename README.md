@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Application<br><br>🌱 I’m currently learning Web Development<br><br>⚡ Fun fact
+Hello! 👋 My name is Dijasmit Patil<br><br>
 
 
 ## 🌐 Socials:
