@@ -20,6 +20,6 @@ Hello! 👋 My name is Dijasmit Patil<br><br>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dijasmit Patil&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 
